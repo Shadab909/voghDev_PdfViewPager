@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133809711726",
+    "project_id": "voghdev-pdfviewpager",
+    "storage_bucket": "voghdev-pdfviewpager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133809711726:android:65090195aea688d6b7947f",
+        "android_client_info": {
+          "package_name": "com.example.voghdev_pdfviewpager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133809711726-la0kl28oc9u4varfb37c78p0ff4tuvi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3BVtPgs3RPrhgO-t-MXgZGXMI_p5gGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133809711726-la0kl28oc9u4varfb37c78p0ff4tuvi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
